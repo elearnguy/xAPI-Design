@@ -112,3 +112,4 @@ pull the new changes into it.
 http://git-scm.com/docs/gittutorial
 http://try.github.io/levels/1/challenges/1
 http://rogerdudler.github.io/git-guide/
+http://www.szakmeister.net/blog/2011/oct/12/reverting-changes-git/
